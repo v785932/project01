@@ -121,11 +121,43 @@ li
     background-color: #3882F6;
 }
 
+.header02
+{
+}
+
 .header02h1
 {
     color: #1F2937;
     font-size: 36px;
     font-weight: 900;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.header02div
+{
+    display: flex;
+    width: 0px;
+    gap: 50px;
+    margin: 0px 0px 0px 300px;
+    padding: 0;
+    font-weight: 300;
+    font-size: 17px;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(85, 83, 83);
+}
+
+.header02div1
+{
+    border-color: #3882F6;
+    border-width: 4px;
+    border-radius: 16px;
+    border-style: solid;
+    width: 155px;
+    height: 160px;
+    text-align: center;
 }
 
 .header03
